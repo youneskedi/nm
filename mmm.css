@@ -1,0 +1,26 @@
+header{
+  background-color: skyblue;
+  width: 100%;
+  position:fixed;
+ z-index: 999;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding:  10px 20
+ px;
+ font-size: 20px;
+font-weight: 20px;
+
+}
+.l{text-decoration: none;
+  color:red;
+  text-transform: uppercase;
+
+  
+}.n{padding-left: 10px;
+  
+}
+body{margin:0px;
+border :0;
+background-color: #897689;
+}
